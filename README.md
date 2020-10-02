@@ -1,0 +1,1 @@
+Book's link https://doc.rust-lang.org/book/
